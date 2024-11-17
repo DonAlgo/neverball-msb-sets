@@ -1,0 +1,30 @@
+MSB part three
+Difficulty: Intermediate through Expert\\25 new challenges that will entertain you for a while.\You can't miss it\Author: DonAlgo (MSB)\ \
+#msb3
+shot-msb3/jumps.jpg
+
+map-msb3/route.sol
+map-msb3/jumps.sol
+map-msb3/two-switches.sol
+map-msb3/spider.sol
+map-msb3/jumpsncoins.sol
+map-msb3/tele-floors.sol
+map-msb3/small-jumps.sol
+map-msb3/curves.sol
+map-msb3/thwomp-park.sol
+map-msb3/narrow-invisible.sol
+map-msb3/two-floors.sol
+map-msb3/2ways.sol
+map-msb3/jumpsnswiches.sol
+map-msb3/glassroad2.sol
+map-msb3/mountain.sol
+map-msb3/islands2.sol
+map-msb3/invisible-roads2.sol
+map-msb3/obstruction.sol
+map-msb3/pounces.sol
+map-msb3/glassmaze.sol
+map-msb3/liftsnjumps.sol
+map-msb3/waydown2.sol
+map-msb3/mini-drops2.sol
+map-msb3/action-switches.sol
+map-msb3/coin-map.sol

@@ -1,0 +1,259 @@
+
+// entity 1
+{
+"classname" "info_null"
+"dist" "250"
+"flag" "1"
+"height" "32.0"
+"width" "32.0"
+"image" "png/msb-desertsun"
+"xrot" "1.12"
+"yrot" "4"
+}
+// entity 2
+{
+"classname" "info_null"
+"dist" "257"
+"flag" "1"
+"height" "60.0"
+"width" "120.0"
+"image" "png/clouds2"
+"yrot" "176 -2.63945 +0.00000"
+"time" "136.39205137433935100115554376859"
+"xrot" "0"
+}
+// entity 3
+{
+"classname" "info_null"
+"dist" "248"
+"flag" "1"
+"height" "60.0"
+"width" "120.0"
+"yrot" "41 -1.57394 +0.00000"
+"xrot" "0"
+"image" "png/clouds3"
+"time" "228.72536437221240962171366125774"
+}
+// entity 4
+{
+"classname" "info_null"
+"yrot" "+271 -1.76126 +0.00000"
+"xrot" "0"
+"width" "120.0"
+"height" "60.0"
+"flag" "1"
+"image" "png/clouds1"
+"dist" "251"
+"time" "204.39912335487094466461510509522"
+}
+// entity 5
+{
+"classname" "info_null"
+"image"     "png/desert1"
+"width"     "   +54.59553     +0.00000     +0.00000"
+"height"    "   +12.00000     +0.00000     +0.00000"
+"xrot"      "   -12.00000     +0.00000     +0.00000"
+"yrot"      "    +0.00000     +0.00000     +0.00000"
+"zrot"      "    +0.00000     +0.00000     +0.00000"
+"dist"      "   +76.67554"
+"time"      "    +1.00000"
+"flag"      "1"
+}
+// entity 6
+{
+"classname" "info_null"
+"image"     "png/desert2"
+"width"     "   +54.59553     +0.00000     +0.00000"
+"height"    "   +12.00000     +0.00000     +0.00000"
+"xrot"      "   -12.00000     +0.00000     +0.00000"
+"yrot"      "  +200.00000     +0.00000     +0.00000"
+"zrot"      "    +0.00000     +0.00000     +0.00000"
+"dist"      "   +76.67554"
+"time"      "    +1.00000"
+"flag"      "1"
+}
+// entity 7
+{
+"classname" "info_null"
+"image"     "png/desert3"
+"width"     "   +48.94045     +0.00000     +0.00000"
+"height"    "   +12.00000     +0.00000     +0.00000"
+"xrot"      "    -2.00000     +0.00000     +0.00000"
+"yrot"      "  +111.72414     +0.00000     +0.00000"
+"zrot"      "    +0.00000     +0.00000     +0.00000"
+"dist"      "  +225.13715"
+"time"      "    +1.00000"
+"flag"      "1"
+}
+// entity 8
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "21.976601"
+"height" "4.395320 0 -1"
+"xrot" "-15.616864"
+"yrot" "281.915710 1.646589 0"
+"dist" "178.876587"
+"time" "13.401877"
+"flag" "1"
+}
+// entity 9
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "24.983868"
+"height" "4.996774 0 -1"
+"xrot" "-21.650972"
+"yrot" "39.171169 -1.126972 0"
+"dist" "125.958092"
+"time" "9.009444"
+"flag" "1"
+}
+// entity 10
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "23.372942"
+"height" "4.674588 0 -1"
+"xrot" "-11.137047"
+"yrot" "144.082306 -0.866741 0"
+"dist" "253.982773"
+"time" "10.267449"
+"flag" "1"
+}
+// entity 11
+{
+"classname" "info_null"
+"image"     "png/desert3"
+"width"     "   +48.94045     +0.00000     +0.00000"
+"height"    "   +12.00000     +0.00000     +0.00000"
+"xrot"      "    -2.00000     +0.00000     +0.00000"
+"yrot"      "  +297.93103     +0.00000     +0.00000"
+"zrot"      "    +0.00000     +0.00000     +0.00000"
+"dist"      "  +225.13715"
+"time"      "    +1.00000"
+"flag"      "1"
+}
+// entity 12
+{
+"classname" "info_null"
+"image"     "png/desert2"
+"width"     "   +48.94045     +0.00000     +0.00000"
+"height"    "   +12.00000     +0.00000     +0.00000"
+"xrot"      "    -2.00000     +0.00000     +0.00000"
+"yrot"      "  +310.34485     +0.00000     +0.00000"
+"zrot"      "    +0.00000     +0.00000     +0.00000"
+"dist"      "  +225.13715"
+"time"      "    +1.00000"
+"flag"      "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "23.372942"
+"height" "4.674588 0 -1"
+"xrot" "-11.137047"
+"yrot" "144.082306 -0.866741 0"
+"dist" "253.982773"
+"time" "10.267449"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "24.983868"
+"height" "4.996774 0 -1"
+"xrot" "-21.650972"
+"yrot" "39.171169 -1.126972 0"
+"dist" "125.958092"
+"time" "9.009444"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "24.983868"
+"height" "4.996774 0 -1"
+"xrot" "-21.650972"
+"yrot" "39.171169 -1.126972 0"
+"dist" "125.958092"
+"time" "9.009444"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "21.976601"
+"height" "4.395320 0 -1"
+"xrot" "-15.616864"
+"yrot" "281.915710 1.646589 0"
+"dist" "178.876587"
+"time" "13.401877"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "14.166620"
+"height" "2.833324 0 -1"
+"xrot" "-16.663565"
+"yrot" "276.562653 0.215880 0"
+"dist" "167.044556"
+"time" "6.975513"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "17.701014"
+"height" "3.540203 0 -1"
+"xrot" "-12.487197"
+"yrot" "131.322403 1.808919 0"
+"dist" "225.774185"
+"time" "9.773971"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "12.124039"
+"height" "2.424808 0 -1"
+"xrot" "-12.414320"
+"yrot" "258.226898 0.427876 0"
+"dist" "227.142349"
+"time" "14.161951"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "22.062651"
+"height" "4.412530 0 -1"
+"xrot" "-18.599377"
+"yrot" "49.403366 -1.373284 0"
+"dist" "148.577347"
+"time" "5.163006"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "24.983868"
+"height" "4.996774 0 -1"
+"xrot" "-21.650972"
+"yrot" "39.171169 -1.126972 0"
+"dist" "125.958092"
+"time" "9.009444"
+"flag" "1"
+}
+{
+"classname" "info_null"
+"image" "png/wave"
+"width" "14.440475"
+"height" "2.888095 0 -1"
+"xrot" "-10.574863"
+"yrot" "220.550339 0.550209 0"
+"dist" "267.822449"
+"time" "10.129324"
+"flag" "1"
+}

@@ -1,0 +1,30 @@
+Neverball Harder
+Difficulty: Hard through Insane\\A basic set with 25 challenges\\Author: DonAlgo (MSB)
+msb
+shot-harder/plataforms.png
+
+map-harder/faf.sol
+map-harder/down.sol
+map-harder/can-fall.sol
+map-harder/SolidChallenge.sol
+map-harder/rocks-and-cones.sol
+map-harder/mini-drops.sol
+map-harder/up-and-glass.sol
+map-harder/zig-down.sol
+map-harder/rare.sol
+map-harder/holes.sol
+map-harder/plataforms.sol
+map-harder/long.sol
+map-harder/blocks.sol
+map-harder/grid.sol
+map-harder/basic-ball.sol
+map-harder/easy-level.sol
+map-harder/rare2.sol
+map-harder/jumps.sol
+map-harder/invisible-maze.sol
+map-harder/putt-simulator.sol
+map-harder/obstacles.sol
+map-harder/down-badtimes.sol
+map-harder/runner.sol
+map-harder/ohoh.sol
+map-harder/RealCoins.sol

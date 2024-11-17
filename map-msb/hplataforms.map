@@ -1,0 +1,345 @@
+
+// entity 0
+{
+"classname" "worldspawn"
+"back" "map-back/jupiter.sol"
+"grad" "back/space.png"
+"shot" "shot-msb/hplataforms.png"
+"song" "bgm/track4.ogg"
+"message" "=HplataformS=\\hard?\easy?"
+"author" "msb"
+"version" "1"
+"goal" "10"
+"time" "6000"
+// brush 0
+{
+( 64 64 0 ) ( 64 -64 0 ) ( -64 64 0 ) mtrl/marble-grey-polished 128 128 0 0.5 0.5 134217728 0 0
+( 64 64 0 ) ( -64 64 0 ) ( 64 64 -128 ) mtrl/marble-grey-polished 0 0 0 0.5 0.5 0 0 0
+( 64 64 0 ) ( 64 64 -128 ) ( 64 -64 0 ) mtrl/marble-grey-polished 0 0 0 0.5 0.5 0 0 0
+( -80 -64 -8 ) ( 48 -64 -8 ) ( -80 64 -8 ) mtrl/marble-grey-polished 0 0 0 0.5 0.5 0 0 0
+( -64 -64 -128 ) ( -64 -64 0 ) ( 64 -64 -128 ) mtrl/marble-grey-polished 0 0 0 0.5 0.5 0 0 0
+( -64 -64 -128 ) ( -64 64 -128 ) ( -64 -64 0 ) mtrl/marble-grey-polished 0 0 0 0.5 0.5 0 0 0
+}
+// brush 1
+{
+( 80 72 0 ) ( 80 -80 0 ) ( -200 72 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 80 72 0 ) ( -200 72 0 ) ( 80 72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 200 48 0 ) ( 200 48 -8 ) ( 200 -104 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -200 -80 -8 ) ( 80 -80 -8 ) ( -200 72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -200 -80 -8 ) ( -200 72 -8 ) ( -200 -80 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 80 64 -8 ) ( -200 64 0 ) ( 80 64 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+}
+// brush 2
+{
+( 80 72 0 ) ( 80 -80 0 ) ( -200 72 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 80 72 0 ) ( -200 72 0 ) ( 80 72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 200 48 0 ) ( 200 48 -8 ) ( 200 -104 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -200 -80 -8 ) ( 80 -80 -8 ) ( -200 72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -208 -72 -8 ) ( -208 -72 0 ) ( 72 -72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 192 -104 0 ) ( 192 48 -8 ) ( 192 48 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+}
+// brush 3
+{
+( 80 72 0 ) ( 80 -80 0 ) ( -200 72 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 200 48 0 ) ( 200 48 -8 ) ( 200 -104 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -200 -80 -8 ) ( 80 -80 -8 ) ( -200 72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -208 -72 -8 ) ( -208 -72 0 ) ( 72 -72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -200 -80 -8 ) ( -200 72 -8 ) ( -200 -80 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 72 -64 -8 ) ( -208 -64 0 ) ( -208 -64 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+}
+// brush 4
+{
+( 80 72 0 ) ( 80 -80 0 ) ( -200 72 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( 80 72 0 ) ( -200 72 0 ) ( 80 72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -200 -80 -8 ) ( 80 -80 -8 ) ( -200 72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -208 -72 -8 ) ( -208 -72 0 ) ( 72 -72 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -200 -80 -8 ) ( -200 72 -8 ) ( -200 -80 0 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -192 -80 0 ) ( -192 72 -8 ) ( -192 -80 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+}
+// brush 5
+{
+( 128 0 0 ) ( 128 -64 0 ) ( 64 0 0 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 128 0 0 ) ( 64 0 0 ) ( 128 0 -8 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 128 0 0 ) ( 128 0 -8 ) ( 128 -64 0 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 64 -64 -8 ) ( 128 -64 -8 ) ( 64 0 -8 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 64 -64 -8 ) ( 64 -64 0 ) ( 128 -64 -8 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 64 -64 -8 ) ( 64 0 -8 ) ( 64 -64 0 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 6
+{
+( 192 64 0 ) ( 192 0 0 ) ( 128 64 0 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 192 64 0 ) ( 128 64 0 ) ( 192 64 -8 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 192 64 0 ) ( 192 64 -8 ) ( 192 0 0 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 128 0 -8 ) ( 192 0 -8 ) ( 128 64 -8 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 128 0 -8 ) ( 128 0 0 ) ( 192 0 -8 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+( 128 0 -8 ) ( 128 64 -8 ) ( 128 0 0 ) mtrl/turf-green-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 7
+{
+( -128 0 0 ) ( -128 -64 0 ) ( -192 0 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -128 0 0 ) ( -192 0 0 ) ( -128 0 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -128 0 0 ) ( -128 0 -8 ) ( -128 -64 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -192 -64 -8 ) ( -128 -64 -8 ) ( -192 0 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -192 -64 -8 ) ( -192 -64 0 ) ( -128 -64 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -192 -64 -8 ) ( -192 0 -8 ) ( -192 -64 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 8
+{
+( -64 64 0 ) ( -64 0 0 ) ( -128 64 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -64 64 0 ) ( -128 64 0 ) ( -64 64 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -64 64 0 ) ( -64 64 -8 ) ( -64 0 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -128 0 -8 ) ( -64 0 -8 ) ( -128 64 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -128 0 -8 ) ( -128 0 0 ) ( -64 0 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( -128 0 -8 ) ( -128 64 -8 ) ( -128 0 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 9
+{
+( 128 64 0 ) ( 128 0 0 ) ( 64 64 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 128 64 0 ) ( 64 64 0 ) ( 128 64 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 128 64 0 ) ( 128 64 -8 ) ( 128 0 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 64 0 -8 ) ( 128 0 -8 ) ( 64 64 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 64 0 -8 ) ( 64 0 0 ) ( 128 0 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 64 0 -8 ) ( 64 64 -8 ) ( 64 0 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 10
+{
+( 200 0 0 ) ( 200 -64 0 ) ( 128 0 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 200 0 0 ) ( 128 0 0 ) ( 200 0 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 192 0 0 ) ( 192 0 -8 ) ( 192 -64 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 128 -64 -8 ) ( 200 -64 -8 ) ( 128 0 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 128 -64 -8 ) ( 128 -64 0 ) ( 200 -64 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 128 -64 -8 ) ( 128 0 -8 ) ( 128 -64 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 11
+{
+( -64 0 0 ) ( -64 -64 0 ) ( -128 0 0 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -64 0 0 ) ( -128 0 0 ) ( -64 0 -8 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -64 0 0 ) ( -64 0 -8 ) ( -64 -64 0 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -128 -64 -8 ) ( -64 -64 -8 ) ( -128 0 -8 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -128 -64 -8 ) ( -128 -64 0 ) ( -64 -64 -8 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -128 -64 -8 ) ( -128 0 -8 ) ( -128 -64 0 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 12
+{
+( -128 64 0 ) ( -128 0 0 ) ( -192 64 0 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -128 64 0 ) ( -192 64 0 ) ( -128 64 -8 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -128 64 0 ) ( -128 64 -8 ) ( -128 0 0 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -192 0 -8 ) ( -128 0 -8 ) ( -192 64 -8 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -192 0 -8 ) ( -192 0 0 ) ( -128 0 -8 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+( -192 0 -8 ) ( -192 64 -8 ) ( -192 0 0 ) mtrl/coin-green-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 13
+{
+( 896 120 0 ) ( 896 0 0 ) ( 768 120 0 ) mtrl/turf-green-goal 0 0 0 0.5 0.5 0 0 0
+( 896 128 0 ) ( 768 128 0 ) ( 896 128 -8 ) mtrl/turf-green-goal 0 0 0 0.5 0.5 0 0 0
+( 896 120 0 ) ( 896 120 -8 ) ( 896 0 0 ) mtrl/turf-green-goal 0 0 0 0.5 0.5 0 0 0
+( 768 0 -8 ) ( 896 0 -8 ) ( 768 120 -8 ) mtrl/turf-green-goal 0 0 0 0.5 0.5 0 0 0
+( 768 0 -8 ) ( 768 0 0 ) ( 896 0 -8 ) mtrl/turf-green-goal 0 0 0 0.5 0.5 0 0 0
+( 768 0 -8 ) ( 768 120 -8 ) ( 768 0 0 ) mtrl/turf-green-goal 0 0 0 0.5 0.5 0 0 0
+}
+// brush 14
+{
+( 576 -256 0 ) ( 576 -64 0 ) ( 768 0 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 768 128 -8 ) ( 576 -64 0 ) ( 576 -64 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 768 128 0 ) ( 768 128 -8 ) ( 768 0 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 768 0 -8 ) ( 576 -64 -8 ) ( 576 -256 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 768 0 0 ) ( 576 -256 -8 ) ( 576 -256 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 576 -256 0 ) ( 576 -64 -8 ) ( 576 -64 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 15
+{
+( 576 -64 0 ) ( 576 -256 0 ) ( 384 -64 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 576 -64 0 ) ( 384 -64 0 ) ( 576 -64 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 576 -64 0 ) ( 576 -64 -8 ) ( 576 -256 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 384 -256 -8 ) ( 576 -256 -8 ) ( 384 -64 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 384 -256 -8 ) ( 384 -256 0 ) ( 576 -256 -8 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+( 384 -256 -8 ) ( 384 -64 -8 ) ( 384 -256 0 ) mtrl/coin-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 16
+{
+( 320 -144 0 ) ( 384 -64 0 ) ( 384 -256 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 320 64 0 ) ( 384 -64 -8 ) ( 384 -64 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 384 -256 -8 ) ( 384 -64 0 ) ( 384 -64 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 384 -256 -8 ) ( 384 -64 -8 ) ( 320 -144 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 384 -256 0 ) ( 320 -144 -8 ) ( 320 -144 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 320 -144 0 ) ( 320 64 -8 ) ( 320 64 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 17
+{
+( 320 64 0 ) ( 200 -72 0 ) ( 200 72 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 320 64 -8 ) ( 200 72 0 ) ( 200 72 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 320 -144 -8 ) ( 320 64 0 ) ( 320 64 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 320 64 -8 ) ( 200 -72 -8 ) ( 320 -144 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 320 -144 0 ) ( 200 -72 -8 ) ( 200 -72 0 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+( 200 72 0 ) ( 200 -72 0 ) ( 200 -72 -8 ) mtrl/turf-green-dark 0 0 0 0.5 0.5 0 0 0
+}
+// brush 18
+{
+( -256 -32 0 ) ( -192 -32 0 ) ( -224 -64 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 0 0 ) ( -192 -32 -8 ) ( -192 -32 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 -64 -8 ) ( -192 -32 0 ) ( -192 -32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 -64 -8 ) ( -192 -32 -8 ) ( -256 -32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -256 -32 0 ) ( -224 -64 0 ) ( -224 -64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 0 -8 ) ( -256 -32 0 ) ( -256 -32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 19
+{
+( -256 32 0 ) ( -192 32 0 ) ( -224 0 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 64 0 ) ( -192 32 -8 ) ( -192 32 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 0 -8 ) ( -192 32 0 ) ( -192 32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 0 -8 ) ( -192 32 -8 ) ( -256 32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -256 32 0 ) ( -224 0 0 ) ( -224 0 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -224 64 -8 ) ( -256 32 0 ) ( -256 32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 20
+{
+( -320 32 0 ) ( -256 32 0 ) ( -288 0 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 64 0 ) ( -256 32 -8 ) ( -256 32 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 0 -8 ) ( -256 32 0 ) ( -256 32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 0 -8 ) ( -256 32 -8 ) ( -320 32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -320 32 0 ) ( -288 0 0 ) ( -288 0 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 64 -8 ) ( -320 32 0 ) ( -320 32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 21
+{
+( -320 -32 0 ) ( -256 -32 0 ) ( -288 -64 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 0 0 ) ( -256 -32 -8 ) ( -256 -32 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 -64 -8 ) ( -256 -32 0 ) ( -256 -32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 -64 -8 ) ( -256 -32 -8 ) ( -320 -32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -320 -32 0 ) ( -288 -64 0 ) ( -288 -64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -288 0 -8 ) ( -320 -32 0 ) ( -320 -32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 22
+{
+( -352 0 0 ) ( -288 0 0 ) ( -320 -32 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -320 32 0 ) ( -288 0 -8 ) ( -288 0 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -320 -32 -8 ) ( -288 0 0 ) ( -288 0 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -320 -32 -8 ) ( -288 0 -8 ) ( -352 0 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -352 0 0 ) ( -320 -32 0 ) ( -320 -32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -320 32 -8 ) ( -352 0 0 ) ( -352 0 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 23
+{
+( -416 64 0 ) ( -352 64 0 ) ( -384 32 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 96 0 ) ( -352 64 -8 ) ( -352 64 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 32 -8 ) ( -352 64 0 ) ( -352 64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 32 -8 ) ( -352 64 -8 ) ( -416 64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -416 64 0 ) ( -384 32 0 ) ( -384 32 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 96 -8 ) ( -416 64 0 ) ( -416 64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 24
+{
+( -416 -64 0 ) ( -352 -64 0 ) ( -384 -96 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 -32 0 ) ( -352 -64 -8 ) ( -352 -64 0 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 -96 -8 ) ( -352 -64 0 ) ( -352 -64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 -96 -8 ) ( -352 -64 -8 ) ( -416 -64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -416 -64 0 ) ( -384 -96 0 ) ( -384 -96 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+( -384 -32 -8 ) ( -416 -64 0 ) ( -416 -64 -8 ) mtrl/turf-brown-small 0 0 0 0.5 0.5 0 0 0
+}
+// brush 25
+{
+( -448 0 0 ) ( -576 0 0 ) ( -512 64 0 ) mtrl/turf-brown 0 0 0 0.5 0.5 0 0 0
+( -448 0 -8 ) ( -512 64 0 ) ( -512 64 -8 ) mtrl/turf-brown 0 0 0 0.5 0.5 0 0 0
+( -512 -64 -8 ) ( -448 0 0 ) ( -448 0 -8 ) mtrl/turf-brown 0 0 0 0.5 0.5 0 0 0
+( -512 64 -8 ) ( -576 0 -8 ) ( -448 0 -8 ) mtrl/turf-brown 0 0 0 0.5 0.5 0 0 0
+( -512 -64 0 ) ( -576 0 -8 ) ( -576 0 0 ) mtrl/turf-brown 0 0 0 0.5 0.5 0 0 0
+( -512 64 0 ) ( -576 0 0 ) ( -576 0 -8 ) mtrl/turf-brown 0 0 0 0.5 0.5 0 0 0
+}
+}
+// entity 1
+{
+"classname" "target_relay"
+}
+// entity 2
+{
+"classname" "info_player_start"
+"origin" "-512 0 104"
+}
+// entity 3
+{
+"classname" "info_player_intermission"
+"origin" "-672 -272 280"
+}
+// entity 4
+{
+"classname" "info_player_deathmatch"
+"origin" "832 64 24"
+}
+// entity 5
+{
+"classname" "light"
+"origin" "544 -96 24"
+"light" "1"
+}
+// entity 6
+{
+"classname" "light"
+"origin" "480 -96 24"
+"light" "1"
+}
+// entity 7
+{
+"classname" "light"
+"origin" "416 -96 24"
+"light" "1"
+}
+// entity 8
+{
+"classname" "light"
+"origin" "416 -160 24"
+"light" "1"
+}
+// entity 9
+{
+"classname" "light"
+"origin" "480 -160 24"
+"light" "1"
+}
+// entity 10
+{
+"classname" "light"
+"origin" "544 -160 24"
+"light" "1"
+}
+// entity 11
+{
+"classname" "light"
+"origin" "416 -224 24"
+"light" "1"
+}
+// entity 12
+{
+"classname" "light"
+"origin" "480 -224 24"
+"light" "1"
+}
+// entity 13
+{
+"classname" "light"
+"origin" "544 -224 24"
+"light" "1"
+}
+// entity 14
+{
+"classname" "light"
+"origin" "-160 32 32"
+"light" "1"
+}
+// entity 15
+{
+"classname" "light"
+"origin" "-96 -32 32"
+"light" "1"
+}
+// entity 16
+{
+"classname" "light"
+"origin" "96 32 32"
+"light" "1"
+}
+// entity 17
+{
+"classname" "light"
+"origin" "160 -32 32"
+"light" "1"
+}

@@ -1,0 +1,206 @@
+
+// entity 0
+{
+"classname" "worldspawn"
+"back" "map-back/alien.sol"
+"grad" "back/alien.png"
+"shot" "shot-harder/RealCoins.png"
+"song" "bgm/track5.ogg"
+"message" "=RealCoins=\True Or False?\"
+"bonus" "1"
+// brush 0
+{
+( 104 64 0 ) ( 104 -128 0 ) ( -120 64 0 ) mtrl/mirror-check 0 0 0 0.5 0.5 0 0 0
+( 104 64 0 ) ( -120 64 0 ) ( 104 64 -128 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( 1024 0 0 ) ( 1024 0 -128 ) ( 1024 -192 0 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( -120 -128 -8 ) ( 104 -128 -8 ) ( -120 64 -8 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( -120 -192 -128 ) ( -120 -192 0 ) ( 104 -192 -128 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( -120 -128 -128 ) ( -120 64 -128 ) ( -120 -128 0 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+}
+// brush 1
+{
+( 1024 -192 0 ) ( 1024 -640 0 ) ( 768 -192 0 ) mtrl/mirror-check 0 0 0 0.5 0.5 0 0 0
+( 1024 -192 0 ) ( 768 -192 0 ) ( 1024 -192 -8 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( 1024 -192 0 ) ( 1024 -192 -8 ) ( 1024 -640 0 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( 768 -640 -8 ) ( 1024 -640 -8 ) ( 768 -192 -8 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( 768 -640 -8 ) ( 768 -640 0 ) ( 1024 -640 -8 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( 768 -640 -8 ) ( 768 -192 -8 ) ( 768 -640 0 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+}
+// brush 2
+{
+( 408 -640 0 ) ( 408 -768 0 ) ( -64 -640 0 ) mtrl/mirror-check 0 0 0 0.5 0.5 0 0 0
+( 408 -640 0 ) ( -64 -640 0 ) ( 408 -640 -8 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( 1024 -672 0 ) ( 1024 -672 -8 ) ( 1024 -800 0 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( -64 -768 -8 ) ( 408 -768 -8 ) ( -64 -640 -8 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( -64 -768 -8 ) ( -64 -768 0 ) ( 408 -768 -8 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+( -64 -768 -8 ) ( -64 -640 -8 ) ( -64 -768 0 ) mtrl/wood-check 0 0 0 0.5 0.5 0 0 0
+}
+// brush 3
+{
+( 8 -640 2 ) ( 8 -712 2 ) ( -64 -640 2 ) mtrl/goal-cut2 128 128 0 0.5 0.5 134217728 0 0
+( 8 -640 2 ) ( -64 -640 2 ) ( 8 -640 -6 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( 64 -696 2 ) ( 64 -696 -6 ) ( 64 -768 2 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( -64 -712 -6 ) ( 8 -712 -6 ) ( -64 -640 -6 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( -8 -768 -6 ) ( -8 -768 2 ) ( 64 -768 -6 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+( -64 -712 -6 ) ( -64 -640 -6 ) ( -64 -712 2 ) mtrl/invisible 0 0 0 0.5 0.5 134217728 0 0
+}
+}
+// entity 1
+{
+"classname" "info_player_intermission"
+"origin" "-174 -397 118"
+}
+// entity 2
+{
+"classname" "info_player_start"
+"origin" "-33 -96 30"
+}
+// entity 3
+{
+"classname" "light"
+"origin" "160 -160 32"
+"light" "1"
+}
+// entity 4
+{
+"classname" "light"
+"origin" "288 -160 32"
+}
+// entity 5
+{
+"classname" "light"
+"origin" "416 -160 32"
+}
+// entity 6
+{
+"classname" "light"
+"origin" "544 -160 32"
+}
+// entity 7
+{
+"classname" "light"
+"origin" "672 -160 32"
+}
+// entity 8
+{
+"classname" "light"
+"origin" "800 -160 32"
+}
+// entity 9
+{
+"classname" "light"
+"origin" "992 -224 32"
+}
+// entity 10
+{
+"classname" "light"
+"origin" "992 -288 32"
+}
+// entity 11
+{
+"classname" "light"
+"origin" "992 -352 32"
+}
+// entity 12
+{
+"classname" "light"
+"origin" "992 -416 32"
+}
+// entity 13
+{
+"classname" "light"
+"origin" "992 -480 32"
+}
+// entity 14
+{
+"classname" "light"
+"origin" "992 -544 32"
+}
+// entity 15
+{
+"classname" "light"
+"origin" "992 -608 32"
+}
+// entity 16
+{
+"classname" "light"
+"origin" "160 32 32"
+"light" "1"
+}
+// entity 17
+{
+"classname" "light"
+"origin" "288 32 32"
+"light" "1"
+}
+// entity 18
+{
+"classname" "light"
+"origin" "416 32 32"
+"light" "1"
+}
+// entity 19
+{
+"classname" "light"
+"origin" "544 32 32"
+"light" "1"
+}
+// entity 20
+{
+"classname" "light"
+"origin" "672 32 32"
+"light" "1"
+}
+// entity 21
+{
+"classname" "light"
+"origin" "800 32 32"
+"light" "1"
+}
+// entity 22
+{
+"classname" "light"
+"origin" "800 -224 32"
+"light" "1"
+}
+// entity 23
+{
+"classname" "light"
+"origin" "800 -288 32"
+"light" "1"
+}
+// entity 24
+{
+"classname" "light"
+"origin" "800 -352 32"
+"light" "1"
+}
+// entity 25
+{
+"classname" "light"
+"origin" "800 -416 32"
+"light" "1"
+}
+// entity 26
+{
+"classname" "light"
+"origin" "800 -480 32"
+"light" "1"
+}
+// entity 27
+{
+"classname" "light"
+"origin" "800 -544 32"
+"light" "0"
+}
+// entity 28
+{
+"classname" "light"
+"origin" "800 -608 32"
+"light" "0"
+}
+// entity 29
+{
+"classname" "info_player_deathmatch"
+"origin" "0 -704 32"
+}

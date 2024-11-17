@@ -1,0 +1,43 @@
+
+// entity 0
+{
+"classname" "worldspawn"
+"back" "map-back/clouds.sol"
+"grad" "back/land.png"
+"shot" "shot-harder/faf.jpg"
+"song" "bgm/track1.ogg"
+"message" "the first level are free!"
+// brush 0
+{
+( 192 64 0 ) ( 192 -64 0 ) ( -56 64 0 ) mtrl/turf-green 0 0 0 0.5 0.5 0 0 0
+( 192 64 0 ) ( -56 64 0 ) ( 192 64 -8 ) mtrl/edge-green 0 0 0 0.5 0.5 0 0 0
+( 192 64 0 ) ( 192 64 -8 ) ( 192 -64 0 ) mtrl/edge-green 0 0 0 0.5 0.5 0 0 0
+( -56 -64 -8 ) ( 192 -64 -8 ) ( -56 64 -8 ) mtrl/edge-green 0 0 0 0.5 0.5 0 0 0
+( -56 -64 -8 ) ( -56 -64 0 ) ( 192 -64 -8 ) mtrl/turf-grey 0 0 0 0.5 0.5 0 0 0
+( -56 -64 -8 ) ( -56 64 -8 ) ( -56 -64 0 ) mtrl/egde-green 0 0 0 0.5 0.5 0 0 0
+}
+// brush 1
+{
+( 192 64 0.75 ) ( 192 -64 0.75 ) ( 64 64 0.75 ) mtrl/goal 0 0 0 0.5 0.5 0 0 0
+( 192 64 0.75 ) ( 64 64 0.75 ) ( 192 64 -7.25 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 192 64 0.75 ) ( 192 64 -7.25 ) ( 192 -64 0.75 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 64 -64 -0.875 ) ( 192 -64 -0.875 ) ( 64 64 -0.875 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 64 -64 -7.25 ) ( 64 -64 0.75 ) ( 192 -64 -7.25 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+( 64 -64 -7.25 ) ( 64 64 -7.25 ) ( 64 -64 0.75 ) mtrl/invisible 0 0 0 0.5 0.5 0 0 0
+}
+}
+// entity 1
+{
+"classname" "info_player_deathmatch"
+"origin" "130 -0.5 23.625"
+}
+// entity 2
+{
+"classname" "info_player_start"
+"origin" "0 0 24"
+}
+// entity 3
+{
+"classname" "info_player_intermission"
+"origin" "-64 0 64"
+}

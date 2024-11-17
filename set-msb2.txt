@@ -1,0 +1,30 @@
+Challenge Time Levels
+Difficulty: Beginner through Intermediate\\25 more difficult challenges than the previous ones.\Creator:DonAlgo (MSB) \Contributor:KodeBreaker\ \
+#msb
+shot-msb2/path.jpg
+
+map-msb2/movethemap.sol
+map-msb2/cubex.sol
+map-msb2/narrow.sol
+map-msb2/small.sol
+map-msb2/shake.sol
+map-msb2/moving.sol
+map-msb2/very.sol
+map-msb2/glassroad.sol
+map-msb2/rockroad.sol
+map-msb2/path.sol
+map-msb2/zigzag.sol
+map-msb2/lucky.sol
+map-msb2/invisiblepath.sol
+map-msb2/simple.sol
+map-msb2/hard.sol
+map-msb2/holename.sol
+map-msb2/squared.sol
+map-msb2/jumper.sol
+map-msb2/edgebump.sol
+map-msb2/invisibleligth.sol
+map-msb2/stairs.sol
+map-msb2/spacemoving.sol
+map-msb2/floor.sol
+map-msb2/jumping.sol
+map-msb2/test.sol
